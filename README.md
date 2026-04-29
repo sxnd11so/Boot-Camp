@@ -1,64 +1,34 @@
-# 🎓 Student Marks Manager
+# Bootcamp
 
-A command-line student records system built in Python for managing student names, marks, and class statistics.
-
----
+A collection of projects and exercises completed during self-directed 
+learning through freeCodeCamp and other online platforms.
 
 ## About
+This repository documents my progress outside of formal education — 
+working through real projects to sharpen my skills in web development 
+and programming fundamentals.
 
-The Student Marks Manager allows a user to add student records, view and sort them, remove entries, and generate basic class statistics. Built as part of the CTIP152 module at STADIO Higher Education.
+## What's Inside
 
----
+### 🌐 Responsive Web Design
+HTML and CSS projects covering layouts, flexbox, and responsive design 
+principles.
 
-## Features
-
-- **Add Students** — Input multiple student names and marks in one session
-- **View & Sort Records** — Displays the original list alongside ascending and descending sorts by name
-- **Remove Student** — Remove a specific student by their list number
-- **Class Statistics**
-  - Average mark
-  - Highest and lowest mark
-  - List of students who passed (≥ 50) and failed (< 50)
-
----
-
-## How to Run
-
-```bash
-python p2.py
-```
-
----
-
-## Menu Options
-
-```
-1. Add student
-2. View/Sort List
-3. Remove student info
-4. Stats
-5. Exit
-```
-
----
+### 📜 JavaScript Algorithms & Data Structures
+JavaScript exercises and algorithm challenges focused on problem-solving 
+and core programming logic.
 
 ## Skills Demonstrated
-
-- List manipulation (`append`, `pop`, `zip`, `sorted`)
-- Loops and conditional logic
-- Basic statistics using built-in functions (`sum`, `max`, `min`)
-- Menu-driven CLI application structure
-
----
+- HTML5 & CSS3
+- JavaScript fundamentals
+- Responsive design
+- Problem solving and algorithmic thinking
 
 ## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-
----
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 
 ## Author
-
 **Sandiso Thebe**
-BIS Student @ STADIO Higher Education
 [GitHub](https://github.com/sxnd11so) · [LinkedIn](https://linkedin.com/in/sandiso-thebe-2476aa394)
